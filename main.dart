@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   int renda = 50000;
   int saldo = 100000;
